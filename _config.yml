@@ -16,10 +16,9 @@
 title: Simplifier
 email: hoiy927@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog about research, machine learning and algorithm.
+  Blog about research, machine learning, algorithm.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hoiy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
 github_username:  hoiy
 
 # Build settings
