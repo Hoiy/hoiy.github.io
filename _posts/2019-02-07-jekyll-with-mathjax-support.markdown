@@ -102,7 +102,7 @@ The default theme of Jekyll is `minima` as defined in `_config.yml`. Themes are 
 
 Now edit `_includes/head.html` in local repository and add the following between the `<head>` tags.
 ```html
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
 ```
 Add `$$\LaTeX$$` to your blog post and it should now render $$\LaTeX$$. Congratulation! Your blog now supports using MathJax.
 
